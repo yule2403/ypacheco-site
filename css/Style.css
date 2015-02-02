@@ -1,0 +1,75 @@
+/* CSS Document */
+
+html {
+	font-family: "Comic Sans MS", cursive;
+	background-image: url(../img/lines_background.jpg);
+	background-position:center;
+	background-repeat:repeat-x;
+		
+}
+.container {
+	  width: 1355px;
+ 	 height: 650px;
+		
+}
+
+img {
+  width: 255px;
+  height: 160px;
+  margin-top:-50px; 
+  margin-left:70px; 
+  float: left;
+}
+
+h1 {
+	font-family: "Vladimir Script";
+	text-align:center;
+	font-weight: bold;
+	color: #000; 
+	font-size: 5pc;
+	
+}
+
+
+.box
+{
+   width: 800px;
+   height: 350px;
+   border:1px;
+   background-color: #CCC;
+   margin-top:200px; 
+   margin-left:250px; 
+} 
+p{
+	font-family: "Lucida Sans Unicode";
+	font-size: 16px;
+	text-align: justify;
+	/* [disabled]color: #000; */
+	font-weight: bold;
+	}
+	
+.bot-p{
+	font-family: "Lucida Sans Unicode";
+	font-size: 16px;
+	text-align:center;
+	color: #000;
+	font-weight: bold;
+	}
+
+.books-list {
+	font-family: "Lucida Sans Unicode";
+	font-size: 16px;
+	text-align: left;
+	color: #000;
+	font-weight: bold;
+	
+}
+
+.social-list {
+	font-family: "Lucida Sans Unicode";
+	font-size: 16px;
+	text-align: left;
+	color: #000;
+	font-weight: bold;
+	
+}
