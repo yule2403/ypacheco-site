@@ -39,6 +39,7 @@ h1 {
    background-color: #CCC;
    margin-top:200px; 
    margin-left:250px; 
+   border:2px solid black;
 } 
 p{
 	font-family: "Lucida Sans Unicode";
@@ -51,7 +52,6 @@ p{
 .bot-p{
 	font-family: "Lucida Sans Unicode";
 	font-size: 16px;
-	text-align:center;
 	color: #000;
 	font-weight: bold;
 	}
@@ -65,11 +65,12 @@ p{
 	
 }
 
-.social-list {
+a {
 	font-family: "Lucida Sans Unicode";
 	font-size: 16px;
-	text-align: left;
-	color: #000;
+	text-align: justify;
+	color: #C3C;
 	font-weight: bold;
+	margin: 50px;
 	
 }
