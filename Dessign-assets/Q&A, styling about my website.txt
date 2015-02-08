@@ -1,0 +1,45 @@
+Questions & Answers
+
+Who is this site for?
+For any person who wants to know about my work, my skills and my education.
+	
+Who is my target audience?
+Future employers and any other person who would like to know more about my work.
+	
+What is my site supposed to actually do?
+Show information about me, my knowledge and how to contact me.
+	
+How will I achieve the target goal of my site?
+I will achieve this goal with a modern, simple but well dessign website. Also it would be easy to navigate and will display all the important information.
+
+STYLING
+
+Color and font choices:
+
+With colors, I would like to use neutral tones in the background and use satured colors on text and boxes. I have some combinations that 
+could work:
+
+1.- 
+#7D1935
+#4A96AD
+#F5F3EE
+#FFFFFF
+
+2.-
+#D8DE1A
+#B4BA22
+#C6C6C6
+#222222
+#5E0F8B
+
+3.-
+#80807C
+#458A9B
+#64BE9A
+#60758C
+
+Font choices:
+Verdana,Franklin Gothic, Helvetica and Bembo.
+
+Navigation: 
+Navigation will be easy to read, keeping it simple with the menu and it will have all the sections and content of the website.
