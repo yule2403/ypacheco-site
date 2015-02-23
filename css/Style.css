@@ -1,4 +1,4 @@
-/* CSS Document */
+/* CSS Document  */
 
 html {
 	background-image: url(../img/lines_background.jpg);
@@ -68,6 +68,9 @@ html {
 	font-weight: bold;
 	margin: 5px;	
 	}
+	
+	map {
+    display: none;
 }
 
 /* Extra Small Devices, Phones */
@@ -133,11 +136,14 @@ html {
 	margin: 5px;	
 	}
 	
-	
+	map {
+    display: none;
+	}
+}	
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px)
 {
-	img {
+    img {
  	 width: 255px;
   	 height: 160px;
    	 margin-top:10px; 
@@ -195,6 +201,16 @@ html {
 	font-weight: bold;
 	margin: 10px;	
 	}
+	
+	map {
+    width: 500px;
+    height: 350px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    position: relative;
+    margin-top: 5%;
+  }
 
 }
 
@@ -260,6 +276,16 @@ html {
 	font-weight: bold;
 	margin: 50px;	
 	}
+	
+	map {
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    position: relative;
+    margin-top: 5%;
+  }
 }
 
 
