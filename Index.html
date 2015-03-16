@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>Yulexis Pacheco</title>
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.17.0/css/uikit.min.css" />
 		 <link href="css/Style.css" type="text/css" rel= "stylesheet" />
             <meta name="title" content="Coder."/>
     		<meta name="author" content="Yulexis Pacheco"/>
@@ -13,13 +14,22 @@
     		<meta name="twitter:description" content="Portfolio site."/>
 	</head>
 	<body>
-    	<div class="container">
-		<h1> ABOUT ME </h1>
+ <nav class="uk-navbar">
+    <ul class="uk-navbar-nav">
+        <li class="uk-active"><a href="">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+    
+</nav>
+    	
+ 		<div class="body-container">
+ 	  <h1> ABOUT ME </h1>
         	<img src="img/me_sony.jpg" alt="about me picture" title="Yule" />
         	<img src="img/travel.jpg" alt="about me picture" title="Yule1" />
         	<img src="img/sunset.jpg" alt="about me picture" title="Yule2" />
-			<img src="img/aus.jpg" alt="about me picture" title="yule3" />
-        <div class="box">
+   	    <img src="img/aus.jpg" alt="about me picture" title="yule3" />
+   	    <div class="box">
  		<p> My name is Yulexis Pacheco, I'm an international transfer student from Venezuela, currently enrolled in The University Of Toledo. My major is Information Technology Engineering and I'm really interested in Databases but I would like to learn more about the website design field. </p>
        <p>I love reading, my favorite books are:
         <ul class="books-list">
@@ -36,14 +46,7 @@
            <a href="https://www.pinterest.com/yulepm/" target="_blank">Pinterest</a>	
          </p> 
         </div>
-   		</div>
-        <div>
-        <iframe class= "map"
-  			frameborder="0" style="border:0"
-  			src=		"https://www.google.com/maps/embed/v1/place?q=North%20Engineering%2C%20University%20of%20Toledo%2C%20Toledo%20Ohio&key=AIzaSyDPidaeFj2o0Uzf-fIKRjc0HOcVqO2Gmg0">
-		</iframe>
-        </div>
-        
+   		</div>        
         <div class="box-contact">
         <p class="contactme"> CONTACT: </p>
         <form class="contact-form" id="form">
@@ -57,7 +60,7 @@
         		<textarea name="text" class="contact-input" id="comment" placeholder="Comment"></textarea>
       		</p>
      	 <div class="submit">
-        	<input type="submit" value="SEND" id="button-blue"/>
+        	<input type="submit" value="SEND" id="button-send"/>
      	 </div>
    	   </form>
        </div>
