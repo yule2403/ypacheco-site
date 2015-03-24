@@ -15,6 +15,15 @@ html {
   margin-top: 5% !important;
 }
 
+.toggle_demo {
+  display: block;
+  position: relative;
+  width: auto;
+  clear: both;
+}
+
+
+
 /* Custom, iPhone Retina */
 @media only screen and (min-width : 320px)
 {
