@@ -2,8 +2,7 @@
 <html>
 	<head>
 		<title>Yulexis Pacheco</title>
-         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.17.0/css/uikit.min.css" />
-		 <link href="css/Style.css" type="text/css" rel= "stylesheet" />
+             <link href="css/Style.css" type="text/css" rel= "stylesheet" />
             <meta name="title" content="Coder."/>
     		<meta name="author" content="Yulexis Pacheco"/>
     		<meta name="description" content="Portfolio site."/>
@@ -14,23 +13,13 @@
     		<meta name="twitter:description" content="Portfolio site."/>
 	</head>
 	<body>
- <nav class="uk-navbar">
-    <ul class="uk-navbar-nav">
-        <li class="uk-active"><a href="">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#contact">Contact</a></li>
-    </ul>
-    
-</nav>
-    	
+
  		<div class="body-container">
         <h1> ABOUT ME </h1></div>
-      		<div id="demo_div">
         	<img src="img/me_sony.jpg" alt="about me picture" title="Yule" />
         	<img src="img/travel.jpg" alt="about me picture" title="Yule1" />
         	<img src="img/sunset.jpg" alt="about me picture" title="Yule2" />
    	    <img src="img/aus.jpg" alt="about me picture" title="yule3" />
-        </div>
    	    <div class="box">
  		<p> My name is Yulexis Pacheco, I'm an international transfer student from Venezuela, currently enrolled in The University Of Toledo. My major is Information Technology Engineering and I'm really interested in Databases but I would like to learn more about the website design field. </p>
        <p>I love reading, my favorite books are:
@@ -48,28 +37,29 @@
            <a href="https://www.pinterest.com/yulepm/" target="_blank">Pinterest</a>	
          </p> 
         </div>
-   		</div>        
+   		</div>       
         <div class="box-contact">
         <p class="contactme"> CONTACT: </p>
         <form class="contact-form" id="form">
      		 <p class="name">
-       			 <input name="name" type="text" class="contact-input" placeholder="Name" id="name" />
+       			 <input name="name" type="text" class="contact-input" placeholder="Name" id="namecont" />
      		 </p>
      		 <p class="email">
-        		 <input name="email" type="text" class="contact-input" id="email" placeholder="Email" />
+        		 <input name="email" type="text" class="contact-input" id="email" placeholder="Email"  />
      		 </p>
       		<p class="text">
         		<textarea name="text" class="contact-input" id="comment" placeholder="Comment"></textarea>
       		</p>
      	 <div class="submit">
-        	<input type="submit" value="SEND" id="button-send"/>
+        	<input type="submit" value="SEND" id="button-send" onclick="callbackFunction()"/>
      	 </div>
    	   </form>
-       </div>
-      <div class="toggle_demo">
-          <button class="btn btn-default" onclick="toggle('demo_div');">Toggle</button>
-          
-    </div>
-    <script src="js/functions.js"></script>
+       </div> 
+       <div class="tooltip" data-tooltip-text="My sundays">
+	   	<img src="http://i.giphy.com/wpoLqr5FT1sY0.gif" style="width:450px;height:312px; margin-left:400">
+       </div> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>    
+  <script src="js/functions.js"></script>
 </body>
 </html>

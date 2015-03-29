@@ -15,13 +15,18 @@ html {
   margin-top: 5% !important;
 }
 
-.toggle_demo {
-  display: block;
+.tooltip {
   position: relative;
-  width: auto;
-  clear: both;
 }
 
+.tooltip-text {
+    background-color: rgba(0, 0, 0, .7);    
+    color: white;
+    left: 0;
+    padding: 5px;
+    position: absolute;
+    top: 0;
+}
 
 
 /* Custom, iPhone Retina */
