@@ -41,7 +41,7 @@ html {
 	}
 	
 	h1 {
-	font-family: "Vladimir Script";
+	font-family: 'Courgette', cursive;
 	text-align:center;
 	font-weight: bold;
 	color: #000; 
@@ -60,7 +60,7 @@ html {
 	} 
 	
 	p {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: .80em;
 	text-align: justify;
 	/* [disabled]color: #000; */
@@ -68,14 +68,14 @@ html {
 	}
 	
 	.bot-p{
-	font-family: Helvetica,serif;;
+	font-family: 'Roboto Slab', serif;
 	font-size: .80em;
 	color: #000;
 	font-weight: bold;
 	}
 	
 	.books-list {
-	font-family: Helvetica,serif;;
+	font-family: 'Roboto', sans-serif;
 	font-size: .80em;
 	text-align: left;
 	color: #000;
@@ -83,7 +83,7 @@ html {
 	}
 
 	a {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: .80em;
 	text-align: justify;
 	color: #C3C;
@@ -96,7 +96,7 @@ html {
 	}
 
 	.contactme {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 8px;
 	color: #000;
 	font-weight: bold;
@@ -157,7 +157,7 @@ html {
 
 
   #button-send{
-    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
     width: 30%;
     border: #fbfbfb solid 1px;
     cursor:pointer;
@@ -197,7 +197,7 @@ html {
 	}
 	
 	h1 {
-	font-family: "Vladimir Script";
+	font-family: 'Courgette', cursive;
 	text-align:center;
 	font-weight: bold;
 	color: #000; 
@@ -216,7 +216,7 @@ html {
 	} 
 	
 	p {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: .90em;
 	text-align: justify;
 	/* [disabled]color: #000; */
@@ -224,14 +224,14 @@ html {
 	}
 	
 	.bot-p{
-	font-family: Helvetica,serif;;
+	font-family: 'Roboto Slab', serif;
 	font-size: .90em;
 	color: #000;
 	font-weight: bold;
 	}
 	
 	.books-list {
-	font-family: Helvetica,serif;;
+	font-family: 'Roboto', sans-serif;
 	font-size: .75em;
 	text-align: left;
 	color: #000;
@@ -239,7 +239,7 @@ html {
 	}
 
 	a {
-	font-family: Helvetica,serif;;
+	font-family: 'Roboto Slab', serif;
 	font-size: .90em;
 	text-align: justify;
 	color: #C3C;
@@ -252,7 +252,7 @@ html {
 	}
 	
 	.contactme {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 13px;
 	color: #000;
 	font-weight: bold;
@@ -354,7 +354,7 @@ html {
 	}
 
    h1 {
-	font-family: "Vladimir Script";
+	font-family: 'Courgette', cursive;
 	text-align:center;
 	font-weight: bold;
 	color: #000; 
@@ -373,7 +373,7 @@ html {
 	} 
 	
    p {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: 16px;
 	text-align: justify;
 	/* [disabled]color: #000; */
@@ -381,14 +381,14 @@ html {
 	}
 	
 	.bot-p{
-	font-family: Helvetica,serif;;
+	font-family: 'Roboto Slab', serif;
 	font-size: 16px;
 	color: #000;
 	font-weight: bold;
 	}
 
    .books-list {
-	font-family: Helvetica,serif;;
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	text-align: left;
 	color: #000;
@@ -396,7 +396,7 @@ html {
 	}
 
 	a {
-	font-family: Helvetica,serif;;
+	font-family: 'Roboto Slab', serif; sans-serif;
 	font-size: 16px;
 	text-align: justify;
 	color: #C3C;
@@ -408,7 +408,7 @@ html {
     color: #606; 
 	}
   	.contactme {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 13px;
 	color: #000;
 	font-weight: bold;
@@ -510,7 +510,7 @@ html {
 	}
 
    h1 {
-	font-family: "Vladimir Script";
+	font-family: 'Courgette', cursive;
 	text-align:center;
 	font-weight: bold;
 	color: #000; 
@@ -530,7 +530,7 @@ html {
 	} 
 	
    p {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	text-align: justify;
 	/* [disabled]color: #000; */
@@ -538,7 +538,7 @@ html {
 	}
 	
    .bot-p{
-	font-family: Helvetica,serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	color: #000;
 	font-weight: bold;
@@ -553,7 +553,7 @@ html {
 	}
 
 	a {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	text-align: justify;
 	color: #C3C;
@@ -566,7 +566,7 @@ html {
 	}
 	
   	.contactme {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	color: #000;
 	font-weight: bold;
@@ -667,11 +667,10 @@ html {
 	}
 
    h1 {
-	font-family: "Vladimir Script";
+	font-family: 'Lobster', cursive;
 	text-align:center;
-	font-weight: bold;
 	color: #000; 
-	font-size: 5pc;
+	font-size: 4.4pc;
 	 margin-top:0px; 
 	
 	}
@@ -688,7 +687,7 @@ html {
 	} 
 	
    p {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: 16px;
 	text-align: justify;
 	/* [disabled]color: #000; */
@@ -696,14 +695,14 @@ html {
 	}
 	
    .bot-p{
-	font-family: Helvetica,serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: 16px;
 	color: #000;
 	font-weight: bold;
 	}
 
    .books-list {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	text-align: left;
 	color: #000;
@@ -711,7 +710,7 @@ html {
 	}
 
 	a {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: 16px;
 	text-align: justify;
 	color: #C3C;
@@ -724,7 +723,7 @@ html {
 	}
 	
 	.contactme {
-	font-family: Helvetica,serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	color: #000;
 	font-weight: bold;
